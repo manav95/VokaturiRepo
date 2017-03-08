@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_settings"
+        android:orderInCategory="100"
+        android:title="@string/menu_settings"/>
+
+</menu><!-- From: file:/Users/manavdutta1/Downloads/of_v0.9.8_android_release/examples/android/androidEmptyExample/res/menu/main_layout.xml -->

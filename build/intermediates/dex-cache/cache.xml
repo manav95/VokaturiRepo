@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/manavdutta1/Downloads/of_v0.9.8_android_release/examples/android/androidEmptyExample/build/intermediates/exploded-aar/androidEmptyExample/ofAndroidLib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="894b5fbf87eabb1b6f96265d7356458e9f763407">
+        <dex dex="/Users/manavdutta1/Downloads/of_v0.9.8_android_release/examples/android/androidEmptyExample/build/intermediates/pre-dexed/debug/classes-0bce013be72b6eb217bc394f69ca8dd3fa385686.jar" />
+    </item>
+    <item
+        jar="/Users/manavdutta1/Downloads/of_v0.9.8_android_release/examples/android/androidEmptyExample/build/intermediates/exploded-aar/com.writingminds/FFmpegAndroid/0.3.2/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="722acae466ccefebedf8a6631384e83bf3139f7c">
+        <dex dex="/Users/manavdutta1/Downloads/of_v0.9.8_android_release/examples/android/androidEmptyExample/build/intermediates/pre-dexed/debug/classes-a20f7079d32e68bb304e1274f65d149df00f0687.jar" />
+    </item>
+
+</items>

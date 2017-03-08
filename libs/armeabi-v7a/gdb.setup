@@ -1,0 +1,7 @@
+set solib-search-path /Users/manavdutta1/Downloads/of_v0.9.8_android_release/examples/android/androidEmptyExample/obj/local/armeabi-v7a:/Users/manavdutta1/Downloads/of_v0.9.8_android_release/examples/android/androidEmptyExample/libs/armeabi-v7a
+set sysroot /Users/manavdutta1/Downloads/android-ndk-r12b/platforms/android-19/arch-x86/
+directory /Users/manavdutta1/Downloads/android-ndk-r12b/platforms/android-19/arch-arm/usr/include
+directory /Users/manavdutta1/Downloads/of_v0.9.8_android_release/examples/android/androidEmptyExample/src
+directory /Users/manavdutta1/Downloads/android-ndk-r12b/sources/cxx-stl/system
+directory /Users/manavdutta1/Downloads/of_v0.9.8_android_release/examples/android/androidEmptyExample/libs/armeabi-v7a
+
